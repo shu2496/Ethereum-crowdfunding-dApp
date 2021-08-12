@@ -7,8 +7,8 @@
 
 ## Tools used:
 1. Smart Contract: 
-   Solidity, Remix, Metamask 
+   *1. Solidity, Remix, Metamask *
 1. Frontend: 
-   Web3.js, React.js
+   *1. Web3.js, React.js *
 ## To Run
-num run server
+* *num run server*
